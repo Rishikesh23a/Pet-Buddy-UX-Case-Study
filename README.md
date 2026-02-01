@@ -1,6 +1,11 @@
 # 🐾 Pet Buddy – UX Case Study  
 ### A Complete Pet Care Ecosystem (Adoption • Nutrition • Healthcare)
 
+<p align="center">
+  <img src="Screenshot/Screenshot 2026-02-01 231423.png" alt="Pet Buddy UX Case Study Banner" width="100%">
+</p>
+
+
 ## 📌 Overview
 **Pet Buddy** is a UX case study for a mobile application designed to simplify and unify pet care services into one seamless platform.  
 The app focuses on **pet adoption, food ordering, and veterinary appointment booking**, ensuring a safe, trustworthy, and user-friendly experience for pet owners.
